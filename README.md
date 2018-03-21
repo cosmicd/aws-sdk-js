@@ -1,0 +1,1 @@
+A collection of examples using aws-sdk javascript to access AWS services.
